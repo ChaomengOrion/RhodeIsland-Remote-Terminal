@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+ Licensed to the Apache Software Foundation (ASF) under one
+ or more contributor license agreements.  See the NOTICE file
+ distributed with this work for additional information
+ regarding copyright ownership.  The ASF licenses this file
+ to you under the Apache License, Version 2.0 (the
+ "License"); you may not use this file except in compliance
+ with the License.  You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing,
+ software distributed under the License is distributed on an
+ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ KIND, either express or implied.  See the License for the
+ specific language governing permissions and limitations
+ under the License.
+
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- These properties must be set prior to importing nuget.props -->
+  <PropertyGroup>
+    <Description>Highlights search keywords in results from the Lucene.NET full-text search engine library from The Apache Software Foundation.</Description>
+    <PackageDocumentationRelativeUrl>highlighter/overview.html</PackageDocumentationRelativeUrl>
+  </PropertyGroup>
+
+  <Import Project="$(SolutionDir).build/nuget.props" />
+  
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;netstandard2.1;netstandard2.0;net45</TargetFrameworks>
+
+    <AssemblyTitle>Lucene.Net.Highlighter</AssemblyTitle>
+    <PackageTags>$(PackageTags);highlight;highlighter</PackageTags>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <NoWarn>$(NoWarn);1591;1573</NoWarn>
+  </PropertyGroup>
+
+  
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lucene.Net.Memory\Lucene.Net.Memory.csproj" />
+    <ProjectReference Include="..\Lucene.Net.Queries\Lucene.Net.Queries.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="Lucene.Net.ICU" />
+    <InternalsVisibleTo Include="Lucene.Net.Tests.Highlighter" />
+    <InternalsVisibleTo Include="Lucene.Net.Tests.ICU" />
+  </ItemGroup>
+
+</Project>

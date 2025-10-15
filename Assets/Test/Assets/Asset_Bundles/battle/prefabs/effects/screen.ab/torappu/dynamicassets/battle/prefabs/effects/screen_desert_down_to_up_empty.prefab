@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1626864062636055}
+  m_IsPrefabParent: 1
+--- !u!1 &1626864062636055
+GameObject:
+  m_ObjectHideFlags: 0
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4667268340014808}
+  - component: {fileID: 114219350133083885}
+  - component: {fileID: 114179714023620598}
+  m_Layer: 15
+  m_Name: screen_desert_down_to_up_empty
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4667268340014808
+Transform:
+  m_ObjectHideFlags: 0
+  m_GameObject: {fileID: 1626864062636055}
+  m_LocalRotation: {x: -1.4901159E-08, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.7075471E-06, y: 0, z: 0}
+--- !u!114 &114219350133083885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_GameObject: {fileID: 1626864062636055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3a74822d2e2484fbd69449e17dc900, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!114 &114179714023620598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_GameObject: {fileID: 1626864062636055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0d692f5698d8245adff42a585b875c, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:

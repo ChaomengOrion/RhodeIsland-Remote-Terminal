@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccfc4ac31d9e7be4b9dfc07b3cebad5f, type: 3}
+  m_Name: ShaderHub
+  m_EditorClassIdentifier: 
+  splitShader: {fileID: 4800000, guid: e88132e0692608a408b78afa8aa58ff1, type: 3}
+  avgSplitShader: {fileID: 4800000, guid: b5e0c20aa00690748ae2699aeedbe522, type: 3}

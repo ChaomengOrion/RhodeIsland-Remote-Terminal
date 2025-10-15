@@ -1,0 +1,36 @@
+// Created by ChaomengOrion
+// Create at 2022-04-29 18:56:05
+// Last modified on 2022-08-01 19:07:51
+
+namespace RhodeIsland.Arknights.UI
+{
+	public enum CharacterSortType
+	{
+		BY_LEVEL_UP,
+		BY_LEVEL_DOWN,
+		BY_RARITY_UP,
+		BY_RARITY_DOWN,
+		BY_GAIN_TIME_UP,
+		BY_GAIN_TIME_DOWN,
+		BY_NAME_UP,
+		BY_NAME_DOWN,
+		BY_COST_UP,
+		BY_COST_DOWN,
+		BY_HP_UP,
+		BY_HP_DOWN,
+		BY_ATK_UP,
+		BY_ATK_DOWN,
+		BY_DEF_UP,
+		BY_DEF_DOWN,
+		BY_RES_UP,
+		BY_RES_DOWN,
+		BY_FAVOR_UP,
+		BY_FAVOR_DOWN,
+		BY_RESPAWN_UP,
+		BY_RESPAWN_DOWN,
+		BY_BLOCKNUM_UP,
+		BY_BLOCKNUM_DOWN,
+		BY_ATKSPEED_UP,
+		BY_ATKSPEED_DOWN
+	}
+}

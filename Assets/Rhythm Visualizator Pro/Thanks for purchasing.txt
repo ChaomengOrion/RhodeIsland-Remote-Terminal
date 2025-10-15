@@ -1,0 +1,28 @@
+// Thanks for purchasing
+
+// PLEASE READ THE DOCUMENTATION FOR FIRST STEPS
+
+// IF YOU HAVE ISSUES WITH UNITY 5.X VERSIONS PLEASE DOWNLOAD UNITY 2017 or superior
+
+// Created by Carlos Arturo Rodriguez Silva (Legend) 
+// Contact: carlosarturors@gmail.com
+
+
+// Video: https://www.youtube.com/watch?v=LXYWPNltY0s
+
+
+// If you want to use the included song for commercially purposes you will need credit the artist.
+// The included song doesn't have copyright.
+
+/* ---------------------------------------------------------------------------------------
+Included Song:
+Song: On & On (feat. Daniel Levi) [NoCopyrightSongs Release]
+Artist: Cartoon
+
+▽ NoCopyrightSounds:
+https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg
+
+▽ Follow Cartoon
+SoundCloud https://soundcloud.com/cartoonbaboon
+Facebook https://www.facebook.com/cartoondband 
+--------------------------------------------------------------------------------------- */

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57320777fc38a034aac1e99ce89a4684, type: 3}
+  m_Name: JiebaConfigManager
+  m_EditorClassIdentifier: 
+  idfLoader: {fileID: 4900000, guid: b4e1d6ef874e91e48b7b58a4e440cb0b, type: 3}
+  stopWords: {fileID: 4900000, guid: 3f0ed8a80ac304f43bb6a17184ab6ee0, type: 3}
+  mainDictFile: {fileID: 4900000, guid: 80b7327321f24114ea51b5a8321818bc, type: 3}
+  probTransFile: {fileID: 4900000, guid: a73461d5706d8d34682f7e29720f4837, type: 3}
+  probEmitFile: {fileID: 4900000, guid: af64d19616b16574e97198896d938f03, type: 3}
+  posProbStartFile: {fileID: 4900000, guid: ee5744786953da64aab0b06566bc0afa, type: 3}
+  posProbTransFile: {fileID: 4900000, guid: cd4886603d2b92f4e84004b6d30d0fce, type: 3}
+  posProbEmitFile: {fileID: 4900000, guid: 4a117913da8a97e4391dc6632fe195d0, type: 3}
+  charStateTabFile: {fileID: 4900000, guid: 858e1a258628bb344b98d3944b0a83a5, type: 3}

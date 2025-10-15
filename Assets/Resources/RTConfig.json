@@ -1,0 +1,231 @@
+{
+    "activityBG": {
+        "1stact": "Avg/Images/ac1_2",
+        "act10d5": null,
+        "act11d0": "Avg/Images/ac11_2",
+        "act12d0": null,
+        "act12side": "Avg/Images/20_i01",
+        "act13d0": null,
+        "act13d5": "Avg/Images/ac13_2",
+        "act13side": "Avg/Images/23_kv",
+        "act14side": "Avg/Images/24_i01",
+        "act15d0": "Avg/Images/avg_ac15_3",
+        "act15d5": null,
+        "act15side": "Avg/Images/25_i09",
+        "act16d5": "Avg/Images/avg_ac16_2",
+        "act16side": "Avg/Images/26_i12",
+        "act17d0": "Avg/Images/avg_ac17_1",
+        "act17side": "Avg/Images/27_kv",
+        "act18d0": null,
+        "act18d3": "Avg/Images/ac18_02",
+        "act18side": "Avg/Images/28_i01",
+        "act19side": "Avg/Images/29_i06",
+        "act20side": "Avg/Images/30_i04",
+        "act21side": "Avg/Images/33_i04",
+        "act3d0": "Avg/Images/ac3_kv",
+        "act4d0": "Avg/Images/avg_ac4_1",
+        "act5d0": "Avg/Images/ac5_4",
+        "act6d5": "Avg/Images/ac6_3",
+        "act7d5": null,
+        "act7mini": null,
+        "act8mini": null,
+        "act9d0": "Avg/Images/avg_ac9_3",
+        "act9mini": null,
+        "act10mini": null,
+        "act11mini": null,
+        "act12mini": "Avg/Images/31_mini12_i4",
+        "act13mini": "Avg/Images/31_luo_i2"
+    },
+    "audioData": {
+        "songs": {
+            "battle.ON_GAME_READY": {
+                "name": "短兵相接",
+                "author": "塞壬唱片-MSR",
+                "albumPic": null,
+                "sirenId": "048744"
+            },
+            "battle.ON_GAME_READY.longmenbat": {
+                "name": "龙门作战音乐1*",
+                "author": "未发行",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.longmenbatimp": {
+                "name": "龙门作战音乐2*",
+                "author": "未发行",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.longmenbatboss": {
+                "name": "龙门Boss战音乐*",
+                "author": "未发行",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.escape": {
+                "name": "逃离",
+                "author": "塞壬唱片-MSR",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.cherno": {
+                "name": "切城1",
+                "author": "塞壬唱片-MSR",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.chernoimp": {
+                "name": "切城2",
+                "author": "塞壬唱片-MSR",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.calamity": {
+                "name": "calamity",
+                "author": "塞壬唱片-MSR",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "battle.ON_GAME_READY.m_bat_duskdragon": {
+                "name": "山水烬尽",
+                "author": "塞壬唱片-MSR / Adam Gubman",
+                "albumPic": null,
+                "sirenId": null
+            },
+            "sys.ON_SCENE_LOADED.building": {
+                "name": "泛用型自动化解决方案0.3.2.9f2",
+                "author": "塞壬唱片-MSR / BaoUner",
+                "albumPic": null,
+                "sirenId": null
+            }
+        },
+        "groupData": {
+            "MAINLINE": [
+                {
+                    "nameCN": "黑暗时代·上",
+                    "nameEN": "Evil Time",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_0",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_1",
+                    "songsList": [
+                        "battle.ON_GAME_READY.escape"
+                    ]
+                },
+                {
+                    "nameCN": "黑暗时代·下",
+                    "nameEN": "Evil Time",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_1",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity",
+                        "battle.ON_GAME_READY.m_bat_duskdragon",
+                        "sys.ON_SCENE_LOADED.building"
+                    ]
+                },
+                {
+                    "nameCN": "异卵同生",
+                    "nameEN": "Separated Hearts",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_2",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "二次呼吸",
+                    "nameEN": "Stinging Shock",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_3",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "急性衰竭",
+                    "nameEN": "Burning Run",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_4",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "靶向药物",
+                    "nameEN": "Necessary Solutions",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_5",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "局部坏死",
+                    "nameEN": "Partial Necrosis",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_6",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "苦难摇篮",
+                    "nameEN": "The Birth Of Tragedy",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_7",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "怒号光明",
+                    "nameEN": "Roaring Flare",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_8",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "风暴瞭望",
+                    "nameEN": "Storm Watch",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_9",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                },
+                {
+                    "nameCN": "破碎日冕",
+                    "nameEN": "Shatter Point",
+                    "enterPic": "Arts/UI/Stage/[UC]StageZoneMainlineItemBG/zone_page_main_10",
+                    "backgroundPic": "Arts/UI/Stage/[UC]StageZoneMainlineBG/mbg_chapter_0_2",
+                    "songsList": [
+                        "battle.ON_GAME_READY.cherno",
+                        "battle.ON_GAME_READY.chernoimp",
+                        "battle.ON_GAME_READY.calamity"
+                    ]
+                }
+            ],
+            "AVG": [],
+            "ACTIVITY": [],
+            "MINISTORY": []
+        }
+    }
+}
